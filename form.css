@@ -1,0 +1,17 @@
+.div1{
+    background-color:antiquewhite;
+    
+}
+#head{
+    text-align: center;
+    color:maroon;
+    text-decoration: underline;
+    margin: 5px;
+}
+.label1{
+    text-align: left;
+    padding: 2%;
+    margin: 2%;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
